@@ -10,4 +10,4 @@ In diesem Repository befindet sich eine einfache statische Webseite. Die `index.
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/sebastianrehfeld/srehfeld.git
+   git clone https://github.com/SRD3V/web-templates/srehfeld.git
