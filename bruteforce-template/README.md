@@ -16,4 +16,4 @@ In diesem Repository befindet sich eine einfache, rein visuelle Bruteforce-Webse
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/dein-benutzername/bruteforce-template.git
+   git clone https://github.com/SRD3V/web-templates/bruteforce-template.git
