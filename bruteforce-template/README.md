@@ -12,8 +12,6 @@ In diesem Repository befindet sich eine einfache, rein visuelle Bruteforce-Webse
 ![Screenshot der Anwendung](screenshot2.png)
 ![Screenshot der Anwendung](screenshot3.png)
 
-> Stelle sicher, dass die Datei `screenshot.png` im Hauptverzeichnis deines Repositories liegt.
-
 ## Installation
 
 1. Klone das Repository:
